@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "363131627166",
+    "firebase_url": "https://fbassistiveapplianceknob-63b0b.firebaseio.com",
+    "project_id": "fbassistiveapplianceknob-63b0b",
+    "storage_bucket": "fbassistiveapplianceknob-63b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363131627166:android:6d25e82543f7e6ec",
+        "android_client_info": {
+          "package_name": "com.example.dongmj.assistiveapplianceknobm4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363131627166-a41qe129oqtelvr9v8tf8kbfohjc7jch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfm570grl3Bo1gXs4aXbaQPoysOAf4BA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/knob_card"
+    card_view:cardBackgroundColor="@color/colorPrimaryLight"
+    app:cardCornerRadius="30dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/knob_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NAME"
+            android:textSize="48sp"
+            android:layout_marginLeft="18sp"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/mac_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MAC"
+            android:textSize="24sp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="18sp"
+            android:layout_below="@+id/knob_name"/>
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assistive Appliance Knob</string>
+    <string name="action_clear">Clear All</string>
+    <string name="new_knob">Add a New Knob</string>
+    <string name="name_hint">Name</string>
+    <string name="default_mac">20:16:07:18:97:33</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_message">Saved knob: </string>
+    <string name="confirm_clear_message">Do you want to clear all knobs?</string>
+    <string name="title_activity_knob_list_with_fb">KnobListWithFBActivity</string>
+</resources>
